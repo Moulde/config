@@ -78,7 +78,13 @@ module.exports = {
     'qbittorrent',
     'visual-studio-code',
     'vlc',
-    'xquartz'
+    'xquartz',
+    'bitwarden',
+    'lastpass',
+    'calibre',
+    'fork',
+    'handbrake',
+    'omnidisksweeper'
   ],
   gem: [
   ],
