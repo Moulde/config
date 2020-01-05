@@ -58,7 +58,7 @@ module.exports = {
     //'comicbooklover',
     //'diffmerge',
     'docker', // docker for mac
-    //'dropbox',
+    'dropbox',
     //'evernote',
     'flux',
     'gpg-suite',
@@ -75,8 +75,9 @@ module.exports = {
     'the-unarchiver',
     //'torbrowser',
     //'transmission',
+    'qbittorrent',
     'visual-studio-code',
-    //'vlc',
+    'vlc',
     'xquartz'
   ],
   gem: [
